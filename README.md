@@ -5,8 +5,12 @@ Tiene conexión a un ODBC en SQL SERVER
 
 El proyecto permite:
 
-Validar tarjetas
-Realizar transacciones básicas (retiros, depósitos, transferencias)
-Tiene un apartado de superusuario que permite crear nuevas CuentasBancarias
-El usuario normal puede cambiar su NIP
-Actualmente esta versión funciona con un ODBC en SQL SERVER.
++ Validar tarjetas
+
++ Realizar transacciones básicas (retiros, depósitos, transferencias)
+
++ Tiene un apartado de superusuario que permite crear nuevas CuentasBancarias+ 
+
++ El usuario normal puede cambiar su NIP
+
++ Actualmente esta versión funciona con un ODBC en SQL SERVER.

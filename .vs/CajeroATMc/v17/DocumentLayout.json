@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oscar\\source\\repos\\CajeroATM_BD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC72672E-15C8-480D-BB61-3D89CB899F14}|Cajero\\Cajero.csproj|c:\\users\\oscar\\source\\repos\\cajeroatm_bd\\cajero\\atm\\cuentamaestra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC72672E-15C8-480D-BB61-3D89CB899F14}|Cajero\\Cajero.csproj|solutionrelative:cajero\\atm\\cuentamaestra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC72672E-15C8-480D-BB61-3D89CB899F14}|Cajero\\Cajero.csproj|C:\\Users\\oscar\\source\\repos\\CajeroATM_BD\\cajero\\registrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC72672E-15C8-480D-BB61-3D89CB899F14}|Cajero\\Cajero.csproj|solutionrelative:cajero\\registrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC72672E-15C8-480D-BB61-3D89CB899F14}|Cajero\\Cajero.csproj|c:\\users\\oscar\\source\\repos\\cajeroatm_bd\\cajero\\registrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC72672E-15C8-480D-BB61-3D89CB899F14}|Cajero\\Cajero.csproj|solutionrelative:cajero\\registrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\CajeroATM_BD\\Cajero\\RegistrarCliente.cs",
+              "RelativeDocumentMoniker": "Cajero\\RegistrarCliente.cs",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\CajeroATM_BD\\Cajero\\RegistrarCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cajero\\RegistrarCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:43:56.232Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\CajeroATM_BD\\Cajero\\RegistrarCliente.cs",
+              "RelativeDocumentMoniker": "Cajero\\RegistrarCliente.cs",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\CajeroATM_BD\\Cajero\\RegistrarCliente.cs",
+              "RelativeToolTip": "Cajero\\RegistrarCliente.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAtwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:37:30.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuentaMaestra.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\source\\repos\\CajeroATM_BD\\Cajero\\ATM\\CuentaMaestra.cs",
+              "RelativeDocumentMoniker": "Cajero\\ATM\\CuentaMaestra.cs",
+              "ToolTip": "C:\\Users\\oscar\\source\\repos\\CajeroATM_BD\\Cajero\\ATM\\CuentaMaestra.cs",
+              "RelativeToolTip": "Cajero\\ATM\\CuentaMaestra.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAcwOcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:12:58.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
